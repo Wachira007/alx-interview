@@ -26,5 +26,5 @@ def pascal_triangle(n):
         # Add the current row to the triangle
         triangle.append(row)
     
-    # Return the completed triangle
+    # Return the completed triangle.
     return triangle
