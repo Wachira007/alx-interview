@@ -5,6 +5,7 @@
 '''
 import sys
 
+
 def makeChange(coins, total):
     '''
     Return: fewest number of coins needed to meet total
